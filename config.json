@@ -115,7 +115,7 @@
   "deathNotifPvpMessage": "<:Skull_status:1289723570045587476> **%USERNAME%** has just been PKed by %PKER% for %VALUELOST% gp...",
   "groupStorageEnabled": false,
   "diaryMessage": "<:ach_dia:1290092870295883902> **%USERNAME%** has completed the %DIFFICULTY% %AREA% Achievement Diary, for a total of %TOTAL% diaries completed",
-  "minLootValue": 50000,
+  "minLootValue": 25000,
   "pkMinValue": 0,
   "notifyGrandExchange": false,
   "grandExchangeNotifyMessage": "**%USERNAME%** %TYPE% %ITEM% on the GE",
