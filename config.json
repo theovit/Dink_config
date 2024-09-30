@@ -94,7 +94,7 @@
   "playerLookupService": "OSRS_HISCORE",
   "threadNameTemplate": "[%TYPE%] %MESSAGE%",
   "dynamicConfigUrl": "https://raw.githubusercontent.com/theovit/Dink_config/refs/heads/main/config.json",
-  "discordWebhook": "https://discord.com/api/webhooks/1290164650062647337/-EgEmgOsT-Kz_hlYCjYILvYjQtYqFcXssTllV1QT94nBNKbuQOQ4BvFk_dVOh5LjZeVq",
+  "discordWebhook": "https://discord.com/api/webhooks/1290172861700509719/q9EXH8Tr65wjlZIRTxZ7C3Byb65ec_sY6XYAeTsjdnEyE_QNRIdKKFxf6CLnlayf280Z",
   "tradeNotifyMessage": "**%USERNAME%** traded with %COUNTERPARTY%",
   "lootIncludePlayer": true,
   "combatTaskMinTier": "EASY",
